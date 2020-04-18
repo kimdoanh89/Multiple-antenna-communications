@@ -8,5 +8,6 @@ Accompanying the notebooks is a [playlist of lecture videos, available on YouTub
 The following listing links to the notebooks in this repository. Topics Covered:
 ### 1. Basic wireless communication knowledge
 We start with a high level overview of some foundational concepts in wireless communication.
-- [SNR definition and basic channel capacity behaviors](00_SNR.ipynb)
+- [SNR in wireless communication](00_SNR.ipynb)
+- [Basic channel capacity behaviors](04_basic_channel_capacity_behaviors.ipynb)
 
