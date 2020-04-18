@@ -10,4 +10,4 @@ The following listing links to the notebooks in this repository. Topics Covered:
 We start with a high level overview of some foundational concepts in wireless communication.
 - [SNR in wireless communication](00_SNR.ipynb)
 - [Basic channel capacity behaviors](04_basic_channel_capacity_behaviors.ipynb)
-
+- [Capacity of SIMO and MISO channels](05_capacity_of_P2P_SIMO_and_MISO_Channels.ipynb)
