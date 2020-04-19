@@ -11,3 +11,6 @@ We start with a high level overview of some foundational concepts in wireless co
 - [SNR in wireless communication](00_SNR.ipynb)
 - [Basic channel capacity behaviors](04_basic_channel_capacity_behaviors.ipynb)
 - [Capacity of SIMO and MISO channels](05_capacity_of_P2P_SIMO_and_MISO_Channels.ipynb)
+- [Beamwidth of Uniform Linear Array (ULA)](06_beamwidth_with_uniform_linear_arrays.ipynb)
+- [Multipath propagation and Rayleigh fading, slow & fast fadings](07_fading.ipynb)
+
